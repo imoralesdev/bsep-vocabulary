@@ -1,0 +1,14 @@
+{
+  "name":"BSEP Vocabulary Trainer",
+  "short_name":"BSEP Trainer",
+  "description":"Entrenador adaptativo para dominar vocabulario BSEP.",
+  "start_url":"/",
+  "scope":"/",
+  "display":"standalone",
+  "orientation":"any",
+  "background_color":"#070b18",
+  "theme_color":"#070b18",
+  "lang":"es",
+  "categories":["education","games"],
+  "icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
