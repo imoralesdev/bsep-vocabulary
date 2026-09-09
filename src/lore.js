@@ -15,18 +15,18 @@ const baseChapters=[
 ];
 
 const enrichment=[
-`The struggle would [[precede]] every civilization later known to Guardians. Unveiling often [[allude]]s to rules and flowers, but readers may [[construe]] those images in different ways.`,
+`The struggle would [[precede]] every civilization later known to Guardians. Its origin remains an [[enigma]]. Unveiling often [[allude]]s to rules and flowers, but readers may [[construe]] those images in different ways because every narrator can be [[fallible]].`,
 `The Precursors held the [[conviction]] that existence required a single purpose. The Final Shape was a [[tantalizing]] promise, but its central [[flaw]] was the destruction of freedom. Their combined consciousness would [[materialize]] as the Witness.`,
-`The claimed God-Wave served as an [[omen]] of destruction. The Witness used that fear to [[bamboozle]] the siblings, converting desperation into endless [[loathing]] for weakness.`,
+`The claimed God-Wave served as an [[omen]] of destruction. The Witness used that fear to [[bamboozle]] the siblings, converting desperation into endless [[loathing]] for weakness. The worms’ hunger became a permanent [[penalty]] for accepting their bargain.`,
 `The Whirlwind appeared to [[maroon]] the Eliksni among the ruins of Riis. The Traveler remained [[elusive]], while the Witness continued its [[unrelenting]] pursuit across the stars.`,
-`Golden Age research was [[eclectic]], combining medicine, artificial intelligence, spaceflight, and paracausal science. The Traveler transformed once [[sterile]] worlds. Later, every [[allegation]] concerning Clovis Bray’s abuses seemed more believable as his records were uncovered.`,
+`Golden Age research was [[eclectic]], combining medicine, artificial intelligence, spaceflight, and paracausal science. Researchers used every [[query]] to test the [[efficacy]] of new technology. The Traveler transformed once [[sterile]] worlds. Later, every [[allegation]] concerning Clovis Bray’s abuses seemed more believable as his records were uncovered.`,
 `A [[somber]] silence followed the destruction. Refugees crossed ruined Earth [[laden]] with their remaining possessions, and even a fortified [[enclosure]] offered little safety. Many communities possessed barely an [[iota]] of their former technology.`,
 `[[Stalwart]] defenders protected small settlements with remarkable [[tenacity]]. The hope of a City beneath the Traveler helped [[invigorate]] people who had survived generations of fear.`,
 `The Vex always searched for a [[flaw]] in every defense. Saladin found it painful to [[broach]] the subject of SIVA, whose [[virulent]] replication had destroyed his fellow Iron Lords.`,
-`Vanguard scouts would [[canvass]] threatened regions before major operations. Ignoring those reports would have been [[negligent]]. The Guardian’s repeated arrival at crucial moments seemed almost too [[coincidental]] to be chance.`,
-`Nightmares could [[materialize]] from grief, while Savathûn’s true intentions remained [[elusive]]. Her messages would [[allude]] to truths without explaining them directly.`,
-`Lakshmi tried to [[flatter]] the City while feeding its fear. Away from politics, Eliksni hatchlings could [[frolic]] and [[gambol]] safely; peaceful life was never [[boring]] to people who had known only war.`,
-`Calus pursued [[rapture]] through consumption and spectacle. He celebrated [[lewd]] excess, tried to [[finagle]] his way into the Witness’s favor, and would [[mope]] whenever admiration was denied.`,
+`Vanguard scouts would [[canvass]] threatened regions before major operations. Ignoring those reports or choosing to [[procrastinate]] would have been [[negligent]]. Cayde could answer danger with a [[jest]], but after his death a [[coroner]] was unnecessary: the fatal cause was painfully clear. The Guardian’s repeated arrival at crucial moments seemed almost too [[coincidental]] to be chance.`,
+`Nightmares could [[materialize]] from grief, while Savathûn’s true intentions remained [[elusive]]. Her messages would [[allude]] to truths without explaining them directly, rarely choosing to [[disclose]] the full answer.`,
+`Lakshmi tried to [[flatter]] the City while feeding its fear. [[Sympathetic]] leaders instead offered the House of Light a [[favor]] born from kindness. Away from politics, Eliksni hatchlings could [[frolic]] and [[gambol]] safely; peaceful life was never [[boring]] to people who had known only war.`,
+`The [[portly]] emperor Calus pursued [[rapture]] through consumption and spectacle. He celebrated [[lewd]] excess, tried to [[finagle]] his way into the Witness’s favor, and would [[mope]] whenever admiration was denied.`,
 `The Coalition’s connection through the portal was [[tenuous]], but its advance was [[unrelenting]]. Not one [[iota]] of certainty guaranteed victory; the allies succeeded through sacrifice and trust.`
 ];
 
