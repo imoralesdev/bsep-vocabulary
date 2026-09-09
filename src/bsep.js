@@ -2,7 +2,7 @@
 // Puedes pegar aquí nuevos objetos usando exactamente el formato que enviaste.
 const rows = [
 ['admonition / reprimand','amonestación, reprimenda','warning','praise,reward,flattery'],
-['suppress / quell','suprimir, sofocar','subdue','encourage,promote,disclose'],
+['suppress / quell','suprimir, sofocar','stifle','encourage,promote,disclose'],
 ['hesitant / vacillate','vacilante, dudar','undecided','decisive,urgent,reckless'],
 ['feign / sham','fingir, farsa','pretend','verify,reveal,support'],
 ['plethora / throng','plétora, multitud','surplus','scarcity,dearth,shortage'],
@@ -21,7 +21,7 @@ const rows = [
 ['acquisition','adquisición, compra','purchase','loss,surrender,forfeiture'],
 ['adage','proverbio, adagio','proverb','fiction,blunder,deception'],
 ['advocate','defensor, abogar','supporter','critic,opponent,rival'],
-['agile','ágil','nimble','clumsy,sluggish,stiff'],
+['agile','ágil','spry','clumsy,sluggish,stiff'],
 ['assail','asaltar, atacar','attack','defend,protect,shelter'],
 ['attrition','desgaste, debilitamiento','weakening','growth,strengthening,expansion'],
 ['austere','austero, severo','harsh','luxurious,decorative,comfortable'],
@@ -37,7 +37,7 @@ const rows = [
 ['depleted','agotado, mermado','exhausted','replenished,stocked,plentiful'],
 ['destitution','indigencia, miseria','poverty','wealth,opulence,prosperity'],
 ['devise','idear, inventar','invent','destroy,discard,ruin'],
-['elicit','extraer, provocar','extract','suppress,stifle,hide'],
+['elicit','extraer, provocar','bring forth','suppress,stifle,hide'],
 ['embargo','embargo, prohibición comercial','prohibition','permission,approval,allowance'],
 ['embezzle','malversar, desfalcar','steal','donate,repay,compensate'],
 ['erratic','errático, impredecible','unpredictable','consistent,steady,regular'],
@@ -58,7 +58,7 @@ const rows = [
 ['nonchalant','despreocupado, indiferente','unconcerned','panicked,anxious,alarmed'],
 ['plummet','desplomarse, caer en picado','plunge','soar,ascend,rise'],
 ['prudent','prudente, sensato','wise','reckless,foolish,rash'],
-['qualm','escrúpulo, reparo moral','scruple','confidence,certainty,pride'],
+['qualm','preocupación, duda o reparo moral','worry','confidence,certainty,pride'],
 ['schism','cisma, ruptura','division','union,harmony,alliance'],
 ['tawdry','chillón, de mal gusto','gaudy','elegant,refined,tasteful'],
 ['terse','conciso, breve y tajante','concise','wordy,lengthy,rambling'],
@@ -76,7 +76,7 @@ const rows = [
  ,['boring','aburrido, tedioso','dull','exciting,lively,fascinating']
  ,['rapture','éxtasis, gran alegría','ecstasy','misery,grief,apathy']
  ,['loathing','odio, repugnancia','hatred','affection,admiration,delight']
- ,['frolic / gambol','juguetear, brincar','play','mourn,work,rest']
+ ,['frolic / gambol','juguetear, brincar','prance','mourn,work,rest']
  ,['canvass','sondear, encuestar','survey','ignore,conceal,avoid']
  ,['flaw','defecto, debilidad','weakness','strength,perfection,advantage']
  ,['materialize','materializarse, aparecer','appear','vanish,dissolve,disappear']
@@ -91,7 +91,7 @@ const rows = [
  ,['tenacity','tenacidad, perseverancia','persistence','weakness,surrender,indifference']
  ,['allude','aludir, referirse indirectamente','refer','declare,deny,omit']
  ,['negligent','negligente, descuidado','careless','careful,diligent,attentive']
- ,['eclectic','ecléctico, variado','varied','uniform,narrow,identical']
+ ,['eclectic','ecléctico, variado','diverse','uniform,narrow,identical']
  ,['construe','interpretar, entender de cierta manera','interpret','confuse,ignore,misstate']
  ,['broach','plantear, introducir un tema','introduce','avoid,suppress,conclude']
  ,['coincidental','coincidente por casualidad','accidental','deliberate,planned,intentional']
@@ -102,6 +102,18 @@ const rows = [
  ,['finagle','conseguir mediante engaño','trick','earn,return,surrender']
  ,['tenuous','débil, poco sólido','weak','strong,substantial,certain']
  ,['stalwart','valiente, firme y leal','brave','cowardly,disloyal,fragile']
+ ,['penalty','castigo, sanción','punishment','reward,benefit,praise']
+ ,['procrastinate','posponer, dejar para después','postpone','hasten,complete,advance']
+ ,['portly','corpulento, rechoncho','overweight','slender,lean,slight']
+ ,['enigma','enigma, misterio','mystery','solution,certainty,explanation']
+ ,['efficacy','eficacia, efectividad','effectiveness','failure,weakness,uselessness']
+ ,['fallible','falible, capaz de equivocarse','imperfect','infallible,flawless,certain']
+ ,['query','pregunta, consulta','inquiry','answer,statement,command']
+ ,['disclose','revelar, divulgar','divulge','conceal,suppress,withhold']
+ ,['sympathetic','compasivo, comprensivo','compassionate','cruel,indifferent,hostile']
+ ,['jest','broma, ocurrencia','quip','lecture,warning,complaint']
+ ,['favor','favor, acto de bondad','kindness','harm,hostility,refusal']
+ ,['coroner','médico forense','medical examiner','surgeon,pharmacist,therapist']
 ];
 
 const details={
