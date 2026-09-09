@@ -30,5 +30,13 @@ const enrichment=[
 `The Coalition’s connection through the portal was [[tenuous]], but its advance was [[unrelenting]]. Not one [[iota]] of certainty guaranteed victory; the allies succeeded through sacrifice and trust.`
 ];
 
-export const loreChapters=baseChapters.map((chapter,index)=>({...chapter,text:`${chapter.text} ${enrichment[index]}`}));
+const mediaBase='https://rawcdn.githack.com/imoralesdev/bsep-vocabulary/d3d8604a9acf66500fa7f74d898ca2ca6bf2dcb6/src/media';
+const mediaSlugs=['1-the-garden-and-the-first-argument','2-the-birth-of-the-witness','3-fundament-and-the-hive','4-riis-and-the-disciples','5-the-golden-age','6-the-collapse','7-warlords-and-the-last-city','8-the-young-wolf-and-oryx','9-ghaul-osiris-and-cayde-6','10-learning-to-use-darkness','11-former-enemies-become-allies','12-neptune-and-strand','13-the-pale-heart'];
+
+export const loreChapters=baseChapters.map((chapter,index)=>({
+ ...chapter,
+ text:`${chapter.text} ${enrichment[index]}`,
+ audio:`${mediaBase}/audio/${mediaSlugs[index]}.mp3`,
+ image:`${mediaBase}/images/${mediaSlugs[index]}.jpeg`
+}));
 export default loreChapters;
