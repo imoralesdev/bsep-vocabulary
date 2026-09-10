@@ -113,4 +113,26 @@ const division1Chapters = [
   }
 ];
 
-export default division1Chapters;
+const division1MediaBase = 'https://raw.githubusercontent.com/imoralesdev/bsep-vocabulary/main/src/media';
+const division1MediaSlugs = [
+  '1-amherst-and-green-poison',
+  '2-the-dollar-flu',
+  '3-quarantine-and-collapse',
+  '4-the-first-wave',
+  '5-abandoned-agents',
+  '6-a-new-agent-arrive',
+  '7-medical-security-and-technology',
+  '8-two-responses-to-disaster',
+  '9-larae-barrett-revenge',
+  '10-bliss-takes-manhattan',
+  '11-amherst-tchernenko-and-the-evidence',
+  '12-the-battle-for-the-un',
+  '13-the-rogue-agent-message',
+  '14-manhattan-remains-contested'
+];
+
+export default division1Chapters.map((chapter, index) => ({
+  ...chapter,
+  audio: `${division1MediaBase}/audio/division-1/${division1MediaSlugs[index]}.mp3`,
+  image: `${division1MediaBase}/images/division-1/${division1MediaSlugs[index]}.jpeg`
+}));
