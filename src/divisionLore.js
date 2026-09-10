@@ -33,4 +33,16 @@ const divisionChapters = [
   }
 ];
 
-export default divisionChapters;
+const division2MediaBase = 'https://raw.githubusercontent.com/imoralesdev/bsep-vocabulary/main/src/media';
+const division2MediaSlugs = [
+  '1-the-dollar-flu',
+  '2-order-breaks-apart',
+  '3-the-sleeper-agents-awaken',
+  '4-the-distress-call'
+];
+
+export default divisionChapters.map((chapter, index) => ({
+  ...chapter,
+  audio: `${division2MediaBase}/audio/division-2/${division2MediaSlugs[index]}.mp3`,
+  image: `${division2MediaBase}/images/division-2/${division2MediaSlugs[index]}.jpeg`
+}));
