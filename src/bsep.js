@@ -114,6 +114,20 @@ const rows = [
  ,['jest','broma, ocurrencia','quip','lecture,warning,complaint']
  ,['favor','favor, acto de bondad','kindness','harm,hostility,refusal']
  ,['coroner','médico forense','medical examiner','surgeon,pharmacist,therapist']
+ ,['perceptive','perceptivo, observador','observant','oblivious,unaware,insensitive']
+ ,['faction','facción, grupo disidente','clique','whole,union,individual']
+ ,['quarry','objetivo, presa perseguida','target','hunter,ally,protector']
+ ,['lambaste','criticar o reprender duramente','censure','praise,commend,flatter']
+ ,['gullibility','credulidad, facilidad para ser engañado','credulity','skepticism,wariness,wisdom']
+ ,['enclose','encerrar, rodear','surround','open,release,expose']
+ ,['wraith','espectro, aparición fantasmal','ghost','human,body,reality']
+ ,['quirk','peculiaridad, rasgo extraño','oddity','normality,conformity,standard']
+ ,['clutter','desorden, acumulación de cosas','mess','order,neatness,organization']
+ ,['rambunctious','ruidoso, revoltoso e incontrolable','raucous','calm,quiet,orderly']
+ ,['scrumptious','delicioso, exquisito','delicious','repugnant,tasteless,inedible']
+ ,['hostel','albergue, alojamiento económico','boarding house','mansion,office,factory']
+ ,['dissent','desacuerdo, oposición','disagreement','agreement,consent,approval']
+ ,['ascent','ascenso, subida','upward climb','descent,fall,decline']
 ];
 
 const details={
