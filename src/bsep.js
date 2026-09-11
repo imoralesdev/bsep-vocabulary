@@ -128,6 +128,23 @@ const rows = [
  ,['hostel','albergue, alojamiento económico','boarding house','mansion,office,factory']
  ,['dissent','desacuerdo, oposición','disagreement','agreement,consent,approval']
  ,['ascent','ascenso, subida','upward climb','descent,fall,decline']
+ ,['thrive','prosperar, desarrollarse','flourish','fail,decline,wither']
+ ,['prioritize','priorizar, ordenar por importancia','order','neglect,delay,disregard']
+ ,['vehemence','vehemencia, intensidad apasionada','intensity','apathy,calm,indifference']
+ ,['concoct','inventar, elaborar o crear','create','destroy,copy,discard']
+ ,['relinquish / relinquished','renunciar, ceder o entregar','surrender','retain,claim,seize']
+ ,['clemency','clemencia, indulgencia','leniency','severity,harshness,punishment']
+ ,['staunch','firme, leal e inquebrantable','steadfast','wavering,disloyal,uncertain']
+ ,['overture','introducción o propuesta inicial','introduction','conclusion,rejection,ending']
+ ,['tribute','homenaje, muestra de respeto','respect','insult,scorn,disgrace']
+ ,['concise','conciso, breve y directo','terse','wordy,lengthy,rambling']
+ ,['kink','torcedura, nudo o giro','twist','straightness,smoothness,line']
+ ,['shrivel','marchitarse o contraerse','wither','flourish,expand,grow']
+ ,['skein','madeja, haz o conjunto enredado','bundle','single,fragment,separation']
+ ,['haphazard','desordenado, sin planificación','random','orderly,planned,systematic']
+ ,['commensurate','proporcional, correspondiente','proportionate','unequal,disproportionate,unrelated']
+ ,['irascible','irascible, fácil de enfadar','irritable','calm,patient,placid']
+ ,['facetious','bromista en asuntos serios','jocular','serious,sincere,solemn']
 ];
 
 const details={
