@@ -5,7 +5,7 @@ const rows = [
 ['suppress / quell','suprimir, sofocar','stifle','encourage,promote,disclose'],
 ['hesitant / vacillate','vacilante, dudar','undecided','decisive,urgent,reckless'],
 ['feign / sham','fingir, farsa','pretend','verify,reveal,support'],
-['plethora / throng','plétora, multitud','surplus','scarcity,dearth,shortage'],
+['plethora','plétora, exceso','surplus','scarcity,dearth,shortage'],
 ['shrewd / canny','astuto, sagaz','clever','foolish,naive,inept'],
 ['bane / virulent','ruina, virulento/letal','deadly','beneficial,healthy,harmless'],
 ['gawk / ogle','mirar boquiabierto, mirar fijamente','stare','ignore,overlook,glance'],
@@ -145,6 +145,51 @@ const rows = [
  ,['commensurate','proporcional, correspondiente','proportionate','unequal,disproportionate,unrelated']
  ,['irascible','irascible, fácil de enfadar','irritable','calm,patient,placid']
  ,['facetious','bromista en asuntos serios','jocular','serious,sincere,solemn']
+ ,['throng','multitud, muchedumbre','crowd','individual,solitude,emptiness']
+ ,['commute','reducir o conmutar una sentencia','reduce','increase,extend,impose']
+ ,['conspiracy','conspiración, complot','intrigue','cooperation,truth,accident']
+ ,['emphasize','enfatizar, destacar','stress','minimize,ignore,conceal']
+ ,['tawny','pardo, marrón amarillento','brownish','colorless,bluish,pale']
+ ,['impart','impartir, comunicar o dar','give','withhold,conceal,take']
+ ,['ragged','andrajoso, rasgado','torn','neat,smooth,intact']
+ ,['quarterly','trimestral, cuatro veces al año','four times yearly','daily,monthly,annually']
+ ,['backlash','reacción negativa, retroceso','recoil','approval,support,advance']
+ ,['varied','variado, diferente','different','uniform,identical,constant']
+ ,['comical','cómico, gracioso','funny','solemn,tragic,serious']
+ ,['hoarse','ronco, áspero de voz','rough','melodious,smooth,clear']
+ ,['knack','habilidad natural, talento','talent','weakness,confusion,inability']
+ ,['thrifty','ahorrativo, cuidadoso con el dinero','frugal','wasteful,extravagant,reckless']
+ ,['mangle','destrozar, mutilar','mutilate','repair,restore,protect']
+ ,['aural','relativo al oído o sonido','auditory','visual,tactile,silent']
+ ,['weep','llorar','cry','laugh,rejoice,smile']
+ ,['predisposed','predispuesto, inclinado','inclined','neutral,unwilling,opposed']
+ ,['willowy','esbelto, flexible y grácil','slender','stocky,rigid,bulky']
+ ,['sanction','aprobación o autorización','approval','prohibition,rejection,denial']
+ ,['proverbial','proverbial, tradicionalmente conocido','traditional','unknown,literal,novel']
+ ,['sequester','aislar, recluir','seclude','release,combine,expose']
+ ,['skirmish','escaramuza, pelea breve','scuffle','peace,treaty,retreat']
+ ,['warranted','justificado, autorizado','justified','baseless,forbidden,unnecessary']
+ ,['hostile','hostil, agresivo','aggressive','friendly,peaceful,welcoming']
+ ,['defaced','desfigurado, estropeado','marred','restored,beautified,repaired']
+ ,['affront','afrenta, insulto','insult','compliment,honor,apology']
+ ,['allure','atraer, seducir','entice','repel,discourage,disgust']
+ ,['bellow','bramar, gritar fuertemente','holler','whisper,murmur,silence']
+ ,['convey / conveyed','comunicar, transmitir','communicate','conceal,withhold,confuse']
+ ,['engrossed','absorto, completamente concentrado','absorbed','distracted,bored,indifferent']
+ ,['feasible','factible, realizable','workable','impossible,impractical,hopeless']
+ ,['pique','estimular el interés','stimulate','bore,calm,suppress']
+ ,['converge','converger, encontrarse','meet','diverge,separate,scatter']
+ ,['antiquated','anticuado, obsoleto','obsolete','modern,current,advanced']
+ ,['deportment','comportamiento, porte','behavior','disorder,appearance,location']
+ ,['deranged','trastornado, demente','insane','rational,stable,sane']
+ ,['turmoil','confusión, agitación o desorden','disorder','calm,peace,stability']
+ ,['countermand','revocar, anular una orden','revoke','approve,enforce,repeat']
+ ,['accrue / accrued','acumularse con el tiempo','accumulate','diminish,spend,disperse']
+ ,['quartz','cuarzo, mineral cristalino','mineral','animal,liquid,fabric']
+ ,['tart','agrio, ácido','sour','sweet,bland,mild']
+ ,['treason','traición contra el Estado','disloyalty','patriotism,loyalty,honor']
+ ,['expendable','prescindible, reemplazable','disposable','essential,irreplaceable,permanent']
+ ,['stench','hedor, olor muy desagradable','odor','perfume,fragrance,freshness']
 ];
 
 const details={
