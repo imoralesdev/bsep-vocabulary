@@ -62,6 +62,54 @@ const divisionChapters = [
     q: 'What motivated the Outcasts?',
     a: ['Revenge for abandonment in quarantine', 'Loyalty to the True Sons', 'A desire to rebuild the JTF'],
     c: 0
+  },
+  {
+    era: 'The Theater and the Campus',
+    title: '9. Settlements Learn to Endure',
+    text: `After Roosevelt Island, the agent strengthened the Theater and Campus settlements. Experienced survivors would [[impart]] practical knowledge through [[aural]] briefings and hands-on training. Their needs were [[varied]]: water, crops, medicine, ammunition, and power. Before the outbreak, supplies might have arrived [[quarterly]], but survival now demanded a [[thrifty]] use of every resource. As materials [[accrued]], larger projects became [[feasible]]. Even the Campus gardens, bordered by [[willowy]] young trees, became proof that Washington could recover.`,
+    q: 'What allowed the settlements to become stronger?',
+    a: ['Shared knowledge and careful use of resources', 'Dependence on the Hyenas', 'Abandoning food production'],
+    c: 0
+  },
+  {
+    era: 'Signals and Propaganda',
+    title: '10. Messages Behind the War',
+    text: `Recovered communications revealed a wider [[conspiracy]] surrounding the capital. Manny would [[emphasize]] that every intercepted message mattered because it [[conveyed]] plans, fears, and hidden alliances. Analysts became [[engrossed]] in recordings that sometimes sounded almost [[comical]], until a commander began to [[bellow]] orders for another attack. When the Division exposed those broadcasts, the factions answered with a violent [[backlash]].`,
+    q: 'Why were intercepted communications valuable?',
+    a: ['They revealed plans and possible alliances', 'They provided unlimited electricity', 'They cured Green Poison'],
+    c: 0
+  },
+  {
+    era: 'District Union Arena',
+    title: '11. Breaking the Hyena Council',
+    text: `The Hyenas occupied District Union Arena behind [[ragged]] barricades painted in [[tawny]] colors. Their [[hostile]] recruits were drawn by the [[allure]] of power, drugs, and stolen wealth. A dangerous spectacle could [[pique]] their interest, and some leaders possessed a natural [[knack]] for manipulating the crowd. They treated resistance as an [[affront]]. No council member would [[commute]] a punishment; mercy was seen as weakness. The agent advanced toward their stronghold to break that control.`,
+    q: 'What attracted many recruits to the Hyenas?',
+    a: ['The promise of power and stolen wealth', 'A disciplined medical program', 'Protection from the Division'],
+    c: 0
+  },
+  {
+    era: 'Outcast Territory',
+    title: '12. The Cost of Revenge',
+    text: `Outcast speakers grew [[hoarse]] while demanding vengeance. Families continued to [[weep]] for people lost in quarantine, but Emeline Shaw used that grief to [[mangle]] any hope of reconciliation. Government symbols were [[defaced]], camps carried the [[stench]] of disease, and some followers obeyed increasingly [[deranged]] commands. Washington remained in [[turmoil]]. Even clean water could taste [[tart]] near contaminated ground, reminding survivors that revenge solved none of the original suffering.`,
+    q: 'How did Emeline Shaw use the Outcasts’ grief?',
+    a: ['She transformed it into a campaign of revenge', 'She negotiated peace with every settlement', 'She dissolved the faction immediately'],
+    c: 0
+  },
+  {
+    era: 'The True Sons’ Command',
+    title: '13. Orders, Loyalty, and Betrayal',
+    text: `Ridgeway demanded military [[deportment]] and treated every unauthorized action as [[treason]]. Only his personal [[sanction]] could legitimize an operation. He could [[countermand]] an order without warning, and officers [[predisposed]] to obedience rarely challenged him. The True Sons considered severe retaliation [[warranted]] and viewed ordinary soldiers as [[expendable]]. Their rigid hierarchy made the faction organized, but it also created resentment the Division could exploit.`,
+    q: 'What weakness existed inside the True Sons’ hierarchy?',
+    a: ['Rigid control created resentment', 'They lacked all military training', 'They refused to use weapons'],
+    c: 0
+  },
+  {
+    era: 'The Strongholds',
+    title: '14. A Larger Force Approaches',
+    text: `The Division prepared to [[sequester]] captured leaders and attack the remaining strongholds. Small patrols would [[skirmish]] while larger teams would [[converge]] on fortified positions. Technicians repaired [[antiquated]] radios and replaced damaged [[quartz]] components to keep the network alive. The [[proverbial]] calm before the storm settled over Washington. Beyond the city’s familiar factions, an organized force was watching and waiting—but its invasion belongs to the next part of the story.`,
+    q: 'What does the final warning suggest?',
+    a: ['A new organized force is preparing to intervene', 'Every threat in Washington has ended', 'The Division is abandoning the capital'],
+    c: 0
   }
 ];
 
