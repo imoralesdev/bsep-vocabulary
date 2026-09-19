@@ -127,7 +127,7 @@ const division2MediaSlugs = [
   '10-messages-behind-the-war',
   '11-breaking-the-hyena-council',
   '12-the-cost-of-revenge',
-  '13-orders-loyalty-and-betrayal,
+  '13-orders-loyalty-and-betrayal',
   '14-a-larger-force-approaches'
 ];
 
