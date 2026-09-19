@@ -118,7 +118,17 @@ const division2MediaSlugs = [
   '1-the-dollar-flu',
   '2-order-breaks-apart',
   '3-the-sleeper-agents-awaken',
-  '4-the-distress-call'
+  '4-the-distress-call',
+  '5-rebuilding-the-white-house',
+  '6-chaos-in-the-streets',
+  '7-ridgeways-harsh-order',
+  '8-the-outcasts-grievance',
+  '9-settlements-learn-to-endure',
+  '10-messages-behind-the-war',
+  '11-breaking-the-hyena-council',
+  '12-the-cost-of-revenge',
+  '13-orders-loyalty-and-betrayal,
+  '14-a-larger-force-approaches'
 ];
 
 export default divisionChapters.map((chapter, index) => {
